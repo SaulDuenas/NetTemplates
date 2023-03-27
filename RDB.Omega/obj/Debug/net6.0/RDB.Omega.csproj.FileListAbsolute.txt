@@ -1,0 +1,14 @@
+C:\aws\omega\codecommit\workers\SmartZendesk\RDB.Omega\bin\Debug\net6.0\RDB.Omega.deps.json
+C:\aws\omega\codecommit\workers\SmartZendesk\RDB.Omega\bin\Debug\net6.0\RDB.Omega.dll
+C:\aws\omega\codecommit\workers\SmartZendesk\RDB.Omega\bin\Debug\net6.0\RDB.Omega.pdb
+C:\aws\omega\codecommit\workers\SmartZendesk\RDB.Omega\obj\Debug\net6.0\RDB.Omega.csproj.AssemblyReference.cache
+C:\aws\omega\codecommit\workers\SmartZendesk\RDB.Omega\obj\Debug\net6.0\RDB.Omega.GeneratedMSBuildEditorConfig.editorconfig
+C:\aws\omega\codecommit\workers\SmartZendesk\RDB.Omega\obj\Debug\net6.0\RDB.Omega.AssemblyInfoInputs.cache
+C:\aws\omega\codecommit\workers\SmartZendesk\RDB.Omega\obj\Debug\net6.0\RDB.Omega.AssemblyInfo.cs
+C:\aws\omega\codecommit\workers\SmartZendesk\RDB.Omega\obj\Debug\net6.0\RDB.Omega.csproj.CoreCompileInputs.cache
+C:\aws\omega\codecommit\workers\SmartZendesk\RDB.Omega\obj\Debug\net6.0\RDB.Omega.dll
+C:\aws\omega\codecommit\workers\SmartZendesk\RDB.Omega\obj\Debug\net6.0\refint\RDB.Omega.dll
+C:\aws\omega\codecommit\workers\SmartZendesk\RDB.Omega\obj\Debug\net6.0\RDB.Omega.pdb
+C:\aws\omega\codecommit\workers\SmartZendesk\RDB.Omega\obj\Debug\net6.0\ref\RDB.Omega.dll
+C:\aws\omega\codecommit\workers\SmartZendesk\RDB.Omega\bin\Debug\net6.0\RDB.Omega.runtimeconfig.json
+C:\aws\omega\codecommit\workers\SmartZendesk\RDB.Omega\obj\Debug\net6.0\RDB.Omega.genruntimeconfig.cache
